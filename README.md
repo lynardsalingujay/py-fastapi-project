@@ -14,7 +14,7 @@ source venv/bin/activate
 
 ## Install FastAPI and Uvicorn
 
-pip install fastapi uvicorn
+`pip install fastapi uvicorn`
 
 ## to run the fastapi application
 
